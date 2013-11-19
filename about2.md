@@ -1,5 +1,4 @@
 ---
-title: About Me
 layout: page
 permalink: /about/
 title: About the Theme
@@ -32,6 +31,3 @@ Connect with me via social media or say hi via email.
 This website was created on a MacBook Air with [Google Chrome](https://www.google.com/intl/en/chrome/browser/) and [Sublime Text 2](http://www.sublimetext.com/2). The site is published with [Jekyll](http://jekyllrb.com/) and [HTML5 Boilerplate](http://html5boilerplate.com/). The sites are composed in Markdown.   
 
 The types are set in Lato and Roboto Condensed, both served by [Google Web Fonts](http://www.google.com/fonts/). 
-
- 
----
